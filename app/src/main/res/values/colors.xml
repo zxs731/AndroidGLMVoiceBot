@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#4CAF50</color> <!-- 绿色 -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- 深绿色 -->
+    <color name="colorAccent">#FFC107</color> <!-- 亮黄色，象征阳光 -->
+    <color name="colorBackground">#2E7D32</color> <!-- 深林绿色 -->
+    <color name="colorText">#FFFFFF</color> <!-- 白色 -->
+</resources>
